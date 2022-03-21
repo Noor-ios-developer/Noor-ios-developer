@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noor-ios-developer
 - 👀 I’m interested in IOS apps programming
-- 🌱 I’m currently learning Combine framework and SwiftUI and Designer patterns
+- 🌱 I’m currently learning SwiftUI,Combine framework and design patterns
 - 💞️ I’m looking to collaborate on a number of ios projects that are out there in public
 - 📫 How to reach me noorullah.developer@gmail.com
 
